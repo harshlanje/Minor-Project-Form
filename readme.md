@@ -27,7 +27,7 @@ A simple PHP project for handling form submissions using **WampServer**.
 5. Open a browser and visit:  
 
    ```
-   http://localhost/Minor-Project-Form
+   http://localhost:8080/Minor-Project-Form
    ```
 
 ---
@@ -48,13 +48,3 @@ Minor-Project-Form/
 
 
 ---
-
-## 🤝 Contributing  
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.  
-
----
-
-## 📜 License  
-
-This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.  
