@@ -1,6 +1,6 @@
 # Minor Project Form  
 
-A simple PHP project for handling form submissions using **WampServer**.  
+A PHP form for Minor Project Topic Selection.
 
 ---
 
@@ -45,6 +45,7 @@ Minor-Project-Form/
 ---
 
 ## 🖼️ Screenshots  
+<img width="421" height="475" alt="1" src="https://github.com/user-attachments/assets/319c57d9-ba32-4b56-990f-ac349e74c9ae" />
 
 
 ---
